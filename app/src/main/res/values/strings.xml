@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Мой кликер</string>
+    <string name="scope_default">0</string>
+    <string name="shop">Магазин</string>
+    <string name="upgrade">Улучшить</string>
+    <string name="back">Назад</string>
+    <string name="buy">Buy</string>
+</resources>
